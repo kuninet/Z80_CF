@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Z80 CF Card Adapter Board (KZ80-CF)"
-Date "2018-12-09"
-Rev "1"
+Date "2018-12-25"
+Rev "2"
 Comp "KUNI-NET"
 Comment1 ""
 Comment2 ""
