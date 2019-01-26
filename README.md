@@ -2,6 +2,8 @@
 
 - SBC8080バスにつながるコンパクトフラッシュボード のデータ類です。
   - [128kB SRAMボード(KZ80-1MSRAM)](https://github.com/kuninet/Z80_1MRAMB)と組み合わせてCP/Mを動かす際に使用できます。
+- 詳しい情報は以下のwikiページをご覧ください
+  - https://github.com/kuninet/Z80_CF/wiki
 
 ## 回路図
 
